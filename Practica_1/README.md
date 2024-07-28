@@ -10,4 +10,4 @@ En este repositorio se encontrarán la respectiva información sobre el informe 
 
 &#9679; [Trifoliar](Trifoliar.pdf)
 
-&#9679; [Video](https://www.youtube.com/watch?v=ysdPb1QSJSE)
+&#9679; [Video]([https://www.youtube.com/watch?v=ysdPb1QSJSE](https://www.youtube.com/watch?v=wUgV5DF3pUU))
