@@ -4,3 +4,4 @@ En este repositorio se almacenaran lo hecho en las practicas iniciales sección 
 
 ### Prácticas
 &#9679; [Práctica 1](Practica_1)
+&#9679; [Práctica 2](Practica_2)
