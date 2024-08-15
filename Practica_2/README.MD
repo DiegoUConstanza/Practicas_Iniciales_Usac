@@ -5,3 +5,5 @@
 &#9679; [Video instalación Linux](https://drive.google.com/file/d/1sPF2cFoC4IofY3SvDqV_XwoCIu9VJiTd/view?usp=sharing)
 
 &#9679; [Video comunicación de equipos](https://vimeo.com/994913504?share=copy)
+
+&#9679; [Video de Virtualizacion de otro sistema](https://drive.google.com/file/d/1mlEaukJ3hcexZnC3ICjgsqysAhwISkq0/view?usp=sharing)
