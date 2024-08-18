@@ -6,3 +6,5 @@ En este repositorio se almacenaran lo hecho en las practicas iniciales sección 
 &#9679; [Práctica 1](Practica_1)
 
 &#9679; [Práctica 2](Practica_2)
+
+&#9679; [Práctica 3](Practica_3)
