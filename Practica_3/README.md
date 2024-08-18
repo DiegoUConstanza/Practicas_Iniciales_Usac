@@ -2,4 +2,4 @@
 ## Primeros pasos con Linux Ubuntu
 ### Recursos
 
-&#9679; [Manual de Linux Ubuntu](https://docs.google.com/document/d/12-5jOGQZkTrXLO6ASP3IewkFjjCmyFAs9EdTzGqmvIQ/edit?usp=sharing)
+&#9679; [Manual de Linux Ubuntu](https://drive.google.com/file/d/19MNeZyXe9ksMauM0q3K-__jx_NQxlgQV/view?usp=sharing)
